@@ -1,9 +1,4 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/eQkqWqF.png" width="100%" alt="Mohamed Helmy Banner"/>
-</p>
-
-<h1 align="center">👋 Hi there, I'm <span style="color:#4CAF50;">Mohamed Helmy</span></h1>
+<h1 align="center">👋 Hi there, I'm <span style="color:#4CAF50;">Mohamed Helmy **WhatsApp:** +20 155 947 0947  </span></h1>
 <h3 align="center">🚀 Full Stack Developer (Laravel & Vue.js)</h3>
 
 ---
@@ -62,9 +57,3 @@ Custom e-commerce builds with advanced integrations, reporting, and automation.
 📱 **WhatsApp:** +20 155 947 0947  
 📧 **Email:** mohamed.helmy.aboahmed@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/mohamed-helmy-087007192/
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=90&section=footer"/>
-</p>
