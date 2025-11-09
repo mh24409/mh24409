@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/0y8Ftya.png" width="100%" alt="Mohamed Helmy Banner"/>
+  <img src="https://i.imgur.com/eQkqWqF.png" width="100%" alt="Mohamed Helmy Banner"/>
 </p>
 
 <h1 align="center">👋 Hi there, I'm <span style="color:#4CAF50;">Mohamed Helmy</span></h1>
