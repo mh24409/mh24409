@@ -25,10 +25,15 @@ Always learning. Always improving. Always shipping. ✅
 ## 🏗️ Projects I've Worked On
 
 ✅ **Large E-commerce (Khamato)**  
-🔗 https://business.mazra3ty.com/
+🔗 https://khamato.com/
+
+
+✅ **Coldwell Banker**  
+🔗 https://coldwellbanker-eg.com/
+
 
 ✅ **Learning Management System (LMS)**  
-🔗 https://khamato.com/
+🔗 https://business.mazra3ty.com/
 
 ✅ **ERP + POS + E-Commerce Systems**  
 Developed complete ERP modules, stock syncing, POS operations, and multi-store E-commerce.
